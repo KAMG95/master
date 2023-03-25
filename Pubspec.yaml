@@ -1,0 +1,14 @@
+name: email_creator
+description: ProtonMail Email Creator
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
